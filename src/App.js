@@ -19,14 +19,14 @@ function App() {
     const [items2, setItems2] = useState({})
 
     const loadedData = function (d) {
-        if (!loaded) {
+        if (!loaded && !!d && !!d.items) {
             setLoaded(true)
             setAllItems(d.items)
         }
     }
 
     const loadedData2 = function (d) {
-        if (!loaded2) {
+        if (!loaded2 && !!d &&  !!d.items) {
             setLoaded2(true)
             setAllItems2(d.items)
         }
@@ -70,27 +70,6 @@ function App() {
         }
     }
 
-
-    /* 
-    
-    let filteredTwo = allItems2.filter((item) => {
-        let itemEndDate = new Date(item.scheduled)
-        itemEndDate.setSeconds(itemEndDate.getSeconds() + item.length_t)
-        return filters.some((f) => {
-            return item.data[0].includes(f)
-        }) && itemEndDate > currentDate
-    })
-    setItems2(Object.groupBy(filteredTwo, i => { return (new Date(i.scheduled)).toLocaleDateString() }))
-
-    /*
-    fetch('/data.json').then(response => {
-        return response.json()
-    }).then(json => {
-        loadedData(json.data)
-        loadedData2(json.data)
-    })
-    */
-
     window.addEventListener('loadedData', e => {
         loadedData(e.detail.data)
     })
@@ -131,18 +110,3 @@ function App() {
 }
 
 export default App;
-
-
-/*
-
-                <div className="switch-mode">
-                    <label htmlFor="checkbox">Show only next run</label>
-                <input
-                    type="checkbox"
-                    id="checkbox"
-                    checked={isChecked}
-                    onChange={checkHandler}
-                    />
-                </div>
-
-                */

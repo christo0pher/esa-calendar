@@ -15,20 +15,6 @@
   </head>
   <body>
       <noscript>You need to enable JavaScript to run this app.</noscript>
-      <script>
-          loadedData = function (d) {
-              setTimeout(() => {
-                  window.dispatchEvent(new CustomEvent("loadedData", { detail: d }))
-              }, 200)
-          }
-          loadedData2 = function (d) {
-              setTimeout(() => {
-                  window.dispatchEvent(new CustomEvent("loadedData2", { detail: d }))
-              }, 200)
-          }
-      </script>
       <div id="root"></div>
-      <script src="https://horaro.org/-/api/v1/schedules/4411gf8bgo950j7a2c?callback=loadedData"></script>
-      <script src="https://horaro.org/-/api/v1/schedules/1d11h41bwq87287a21?callback=loadedData2"></script>       
   </body>
 </html>
