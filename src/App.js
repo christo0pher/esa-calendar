@@ -53,7 +53,6 @@ function App() {
                 }) && itemEndDate > currentDate
             })
             let objects = Object.groupBy(allItemsOne, i => { return (new Date(i.scheduled)).toLocaleDateString() })
-            console.log('setting objects')
             setItems(objects)
         }
         if (!Object.keys(items2).length && allItems2.length) {
@@ -65,7 +64,6 @@ function App() {
                 }) && itemEndDate > currentDate
             })
             let objects2 = Object.groupBy(allItemsTwo, i => { return (new Date(i.scheduled)).toLocaleDateString() })
-            console.log('setting objects')
             setItems2(objects2)
         }
     }
