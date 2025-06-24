@@ -20,6 +20,26 @@ function endDate(item) {
     return d
 }
 
+function RunnersDisplay({ runners }) {
+    const urlRegex = /\[(.*)\]\((.*)\)/
+
+    const runnersArray = runners.split(',')
+    return <>
+        {runnersArray.map((r, i) => {
+            let runner = r.trim()
+
+            let result = urlRegex.exec(runner)
+
+            if (result && result.length === 3) {
+                return <span className='runner-display' key={i}><a href={result[2]} target='_blank'>{result[1]}</a></span>
+            }
+            else {
+                return <span className='runner-display' key={i}>{runner}</span>
+            }
+        })}
+    </>
+}
+
 export default function Entry({ item }) {
     const date = new Date(item.scheduled)
     const platformName = (item.data[2] ?? '').replace('Nintendo Entertainment System', "NES")
@@ -32,8 +52,9 @@ export default function Entry({ item }) {
             {item.data[2] !== 'N/A' ? <div className='platform'>{platformName}</div> : ''}
         </div>
         <div className='run-title'>{item.data[0]} {item.data[3] ? ' - ' + item.data[3] : ''}</div>
-        {actualRunners ? <div className='runner'>Runner{actualRunners.trim().includes(' ') ? 's' : ''}: {actualRunners}</div> : ''}
+        {actualRunners ? <div className='runner'>Runner{actualRunners.trim().includes(' ') ? 's' : ''}: <RunnersDisplay runners={actualRunners} /></div> : ''}
         <div className='hidden'>
-            {JSON.stringify(item)} </div>
+            {JSON.stringify(item)}
+        </div>
     </div>
 }

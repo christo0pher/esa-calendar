@@ -24,7 +24,7 @@ function weekDay(date) {
 }
 
 export default function EntryCollection({ items, streamUrl }) {
-    return <a className="items-list">
+    return <div className="items-list">
         {Object.keys(items).map((key, index) => {
             let date = (new Date(items[key][0].scheduled))
             return <div className='sub-list-wrapper' key={ index }>
@@ -34,7 +34,7 @@ export default function EntryCollection({ items, streamUrl }) {
                 </div>
             </div>
         })}
-    </a>
+    </div>
 }
 
 export { currentDate };
