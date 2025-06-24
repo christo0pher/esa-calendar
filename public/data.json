@@ -1,0 +1,2229 @@
+{
+  "data": {
+    "id": "4411gf8bgo950j7a2c",
+    "name": "2025 - Summer (Stream One)",
+    "slug": "2025-summer1",
+    "timezone": "Europe/Stockholm",
+    "start": "2025-06-28T14:00:00+02:00",
+    "start_t": 1751112000,
+    "website": "http://www.esamarathon.com/",
+    "twitter": "esamarathon",
+    "twitch": "esamarathon",
+    "description": null,
+    "setup": "PT15M",
+    "setup_t": 900,
+    "updated": "2025-06-17T11:46:16Z",
+    "hidden_columns": [
+      "Layout",
+      "Intermission",
+      "UserIDs",
+      "ID"
+    ],
+    "link": "https://horaro.org/esa/2025-summer1",
+    "columns": [
+      "Game",
+      "Player(s)",
+      "Platform",
+      "Category",
+      "Couch",
+      "Layout",
+      "Intermission",
+      "UserIDs",
+      "ID"
+    ],
+    "items": [
+      {
+        "length": "PT50M",
+        "length_t": 3000,
+        "scheduled": "2025-06-28T14:00:00+02:00",
+        "scheduled_t": 1751112000,
+        "data": [
+          "Jak and Daxter: The Precursor Legacy ",
+          "Jazz",
+          "PlayStation 2",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "223,,,,,,,,,,",
+          "0f5d4c55-b368-408c-a21b-d08c0ccaf2f5"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT40M",
+        "length_t": 2400,
+        "scheduled": "2025-06-28T15:05:00+02:00",
+        "scheduled_t": 1751115900,
+        "data": [
+          "Star Wars Jedi Knight: Jedi Academy",
+          "Laay",
+          "PC",
+          "All Levels (No Stablaunch)",
+          null,
+          "16x9-1p",
+          null,
+          "1051,,,,,,,,,,",
+          "20aa7285-f53a-444b-acc9-086eded8e818"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H25M",
+        "length_t": 5100,
+        "scheduled": "2025-06-28T16:00:00+02:00",
+        "scheduled_t": 1751119200,
+        "data": [
+          "Halo: Reach",
+          "Seclusive vs. Sorix ",
+          "PC",
+          "Legendary",
+          null,
+          "16x9-2p",
+          null,
+          ",,,,,,,,,,",
+          "b9fdc37e-2559-4bf7-9ea8-533ed7ee7486"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-06-28T17:40:00+02:00",
+        "scheduled_t": 1751125200,
+        "data": [
+          "League of Legends",
+          "Ætienne",
+          "PC",
+          "1v5 (With Bots)",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "99a87d7c-b676-446c-9a79-489bb0900024"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H17M",
+        "length_t": 4620,
+        "scheduled": "2025-06-28T18:15:00+02:00",
+        "scheduled_t": 1751127300,
+        "data": [
+          "Halo Infinite",
+          "Caitlin",
+          "PC",
+          "All Missions (Easy)",
+          null,
+          "16x9-1p",
+          null,
+          "1880,,,,,,,,,,",
+          "7c3e32af-8416-4859-97b3-6c6223283f56"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-06-28T19:47:00+02:00",
+        "scheduled_t": 1751132820,
+        "data": [
+          "Sly 2: Band of Thieves",
+          "Slysonic",
+          "PlayStation 5",
+          "Episode 7 (100%)",
+          null,
+          "16x9-1p",
+          null,
+          "153,,,,,,,,,,",
+          "a56f86db-34c0-4366-9a7e-4c834efbd55c"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H50M",
+        "length_t": 6600,
+        "scheduled": "2025-06-28T20:37:00+02:00",
+        "scheduled_t": 1751135820,
+        "data": [
+          "Borderlands 2",
+          "Oggy, yisk",
+          "PC",
+          "Any% (Co-op)",
+          null,
+          "16x9-2p",
+          null,
+          "1049,37,,,,,,,,,",
+          "9ca9cd45-34c4-4832-92a8-71ee1cb930f4"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-06-28T22:42:00+02:00",
+        "scheduled_t": 1751143320,
+        "data": [
+          "Pokémon Red",
+          "Ætienne",
+          "Game Boy Color",
+          "Any% (Glitchless)",
+          null,
+          "GB-1p",
+          null,
+          ",,,,,,,,,,",
+          "8ba5ff28-e774-4645-9118-7e5574b36f8f"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H15M",
+        "length_t": 8100,
+        "scheduled": "2025-06-29T00:57:00+02:00",
+        "scheduled_t": 1751151420,
+        "data": [
+          "Paper Mario",
+          "jakebopdart",
+          "Nintendo 64",
+          "Any% (No ACE)",
+          null,
+          "4x3-1p",
+          null,
+          "1869,,,,,,,,,,",
+          "30f9e685-22bd-4106-a912-d677ce269603"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H20M",
+        "length_t": 8400,
+        "scheduled": "2025-06-29T03:27:00+02:00",
+        "scheduled_t": 1751160420,
+        "data": [
+          "Uncharted 2: Among Thieves",
+          "Shemp",
+          "PlayStation 5",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "1020,,,,,,,,,,",
+          "35cb0f85-c8cf-428c-a5ee-8b45ec2290b5"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-06-29T06:02:00+02:00",
+        "scheduled_t": 1751169720,
+        "data": [
+          "Hades",
+          "OckE",
+          "PC",
+          "OwO (One Weapon Only)",
+          null,
+          "16x9-1p",
+          null,
+          "364,,,,,,,,,,",
+          "93726cef-9073-4fbb-8aa4-14a7959349b9"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-06-29T07:37:00+02:00",
+        "scheduled_t": 1751175420,
+        "data": [
+          "Skeleton Krew",
+          "Joka",
+          "Genesis",
+          "Easy Mode",
+          null,
+          "4x3-1p",
+          null,
+          "14,,,,,,,,,,",
+          "85ef865c-26bd-474f-8b81-7742affff7e3"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT18M",
+        "length_t": 1080,
+        "scheduled": "2025-06-29T08:12:00+02:00",
+        "scheduled_t": 1751177520,
+        "data": [
+          "Snake Rattle 'n' Roll",
+          "dxtr",
+          "Nintendo Entertainment System",
+          "Warpless",
+          null,
+          "4x3-1p",
+          null,
+          "161,,,,,,,,,,",
+          "890d81cb-4e20-4ca4-8c1e-2c25edd0c9ef"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT17M",
+        "length_t": 1020,
+        "scheduled": "2025-06-29T08:45:00+02:00",
+        "scheduled_t": 1751179500,
+        "data": [
+          "Tiny Toon Adventures ",
+          "hirexen",
+          "Nintendo Entertainment System",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "318,,,,,,,,,,",
+          "2082c44f-326d-4f06-aea7-100b352ae556"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT21M",
+        "length_t": 1260,
+        "scheduled": "2025-06-29T09:17:00+02:00",
+        "scheduled_t": 1751181420,
+        "data": [
+          "The Simpsons: Bartman Meets Radioactive Man",
+          "ApolloSmug",
+          "Nintendo Entertainment System",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "363,,,,,,,,,,",
+          "13259160-9d4b-4267-92ca-58292a10d337"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-06-29T09:53:00+02:00",
+        "scheduled_t": 1751183580,
+        "data": [
+          "Data Man",
+          "niss3, Fleke",
+          "Nintendo Entertainment System",
+          "2P Any%",
+          null,
+          "4x3-2p",
+          null,
+          "243,1642,,,,,,,,,",
+          "5e201d5a-e9cd-40b9-a876-3fe0eb67d00a"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-06-29T10:28:00+02:00",
+        "scheduled_t": 1751185680,
+        "data": [
+          "Battletoads & Double Dragon",
+          "sYn, TypicalFantasyX",
+          "Nintendo Entertainment System",
+          "Any% (Co-op)",
+          null,
+          "4x3-2p",
+          null,
+          "1721,1687,,,,,,,,,",
+          "af37a0d7-2955-49bd-a55f-c287c7a76979"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-06-29T11:18:00+02:00",
+        "scheduled_t": 1751188680,
+        "data": [
+          "Pilotwings",
+          "Lucha_Gym",
+          "Super Famicom",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "302,,,,,,,,,,",
+          "ebe901d9-e380-49b4-832c-baf10bafa78d"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-06-29T12:08:00+02:00",
+        "scheduled_t": 1751191680,
+        "data": [
+          "Run Saber",
+          "sYn, TypicalFantasyX",
+          "Super Nintendo",
+          "Any% (Co-op)",
+          null,
+          "4x3-2p",
+          null,
+          "1721,1687,,,,,,,,,",
+          "3e73fd52-0821-4491-bb26-1e4c1f5ab2fa"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT3H",
+        "length_t": 10800,
+        "scheduled": "2025-06-29T12:48:00+02:00",
+        "scheduled_t": 1751194080,
+        "data": [
+          "Metaphor: ReFantazio (Part 1)",
+          "Neviutz",
+          "PC",
+          "True Ending (Hard)",
+          null,
+          "16x9-1p",
+          null,
+          "124,,,,,,,,,,",
+          "8093e1be-5696-47ba-91db-e66ad2dfc8ef"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H02M",
+        "length_t": 7320,
+        "scheduled": "2025-06-29T16:03:00+02:00",
+        "scheduled_t": 1751205780,
+        "data": [
+          "The Elder Scrolls V: Skyrim",
+          "pekkanen",
+          "PC",
+          "All Daedric Quests",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "46691934-a4b0-4579-a5e1-c4f718d4a08a"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT31M",
+        "length_t": 1860,
+        "scheduled": "2025-06-29T18:20:00+02:00",
+        "scheduled_t": 1751214000,
+        "data": [
+          "Mort the Chicken",
+          "SpaceLozzy",
+          "PlayStation",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "1641,,,,,,,,,,",
+          "71102ee5-f248-4290-a5fa-2e0d1853fea3"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT40M",
+        "length_t": 2400,
+        "scheduled": "2025-06-29T19:06:00+02:00",
+        "scheduled_t": 1751216760,
+        "data": [
+          "Crash Tag Team Racing",
+          "hypnoshark ",
+          "PlayStation 2",
+          "Any% (No PSW)",
+          null,
+          "4x3-1p",
+          null,
+          "1095,,,,,,,,,,",
+          "273ca9bf-fb7e-436f-bfe0-09b14837799d"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT47M",
+        "length_t": 2820,
+        "scheduled": "2025-06-29T20:01:00+02:00",
+        "scheduled_t": 1751220060,
+        "data": [
+          "Super Metroid",
+          "DarkXoa",
+          "Super Nintendo",
+          "GT Classic",
+          null,
+          "4x3-1p",
+          null,
+          "1839,,,,,,,,,,",
+          "284a5b63-e954-4b7c-a9a0-f184e1442028"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H30M",
+        "length_t": 9000,
+        "scheduled": "2025-06-29T21:03:00+02:00",
+        "scheduled_t": 1751223780,
+        "data": [
+          "Astro Bot",
+          "DreeGon",
+          "PlayStation 5",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "298,,,,,,,,,,",
+          "e97b73a8-ffec-46a8-a4f6-349e05a782c1"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT55M",
+        "length_t": 3300,
+        "scheduled": "2025-06-29T23:48:00+02:00",
+        "scheduled_t": 1751233680,
+        "data": [
+          "Star Trek: Voyager - Elite Force",
+          "Sphere",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "193,,,,,,,,,,",
+          "0b57ccd1-547d-43ef-a1ac-e99be09546bc"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-06-30T00:58:00+02:00",
+        "scheduled_t": 1751237880,
+        "data": [
+          "Resident Evil 5",
+          "YatogamiNL, Smaklosa",
+          "PC",
+          "Lost In Nightmares (Co-op, Glitchless)",
+          null,
+          "16x9-2p",
+          null,
+          ",,,,,,,,,,",
+          "21e8068c-42b9-4c1d-9753-a764d0953441"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-06-30T01:33:00+02:00",
+        "scheduled_t": 1751239980,
+        "data": [
+          "Resident Evil 5",
+          "YatogamiNL, Smaklosa",
+          "PC",
+          "Any% NG+",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "52a3c01a-05e2-4d91-b0bf-be01a658f169"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H30M",
+        "length_t": 5400,
+        "scheduled": "2025-06-30T03:48:00+02:00",
+        "scheduled_t": 1751248080,
+        "data": [
+          "Mega Man X7",
+          "YatogamiNL",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "114f2002-887b-414e-be98-190e3d78a80e"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H45M",
+        "length_t": 9900,
+        "scheduled": "2025-06-30T05:33:00+02:00",
+        "scheduled_t": 1751254380,
+        "data": [
+          "Golden Sun: The Lost Age",
+          "neomatamune",
+          "Game Boy Advance",
+          "Randomizer (Boss Blackout)",
+          null,
+          null,
+          null,
+          "217,,,,,,,,,,",
+          "832ba9f2-550e-4431-8338-8a9bff49db77"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H30M",
+        "length_t": 5400,
+        "scheduled": "2025-06-30T08:33:00+02:00",
+        "scheduled_t": 1751265180,
+        "data": [
+          "Hollow Knight",
+          "azere ",
+          "PC",
+          "True Ending (No Major Glitches)",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "1084003c-781e-4a75-a6b4-a09e14aff5dd"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H15M",
+        "length_t": 4500,
+        "scheduled": "2025-06-30T10:18:00+02:00",
+        "scheduled_t": 1751271480,
+        "data": [
+          "The Ratchet & Clank Trilogy",
+          "pentali, roboo, Torrbullen",
+          "PlayStation 3",
+          "NG+ Restricted Relay",
+          null,
+          "4x3-3p",
+          null,
+          "1238,1848,1766,,,,,,,,",
+          "2a80766b-02db-431a-b383-8c3a7adbea6d"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-06-30T11:48:00+02:00",
+        "scheduled_t": 1751276880,
+        "data": [
+          "Mario Kart Wii",
+          "karhuma",
+          "Wii",
+          "32 Tracks (No Skips)",
+          null,
+          "4x3-1p",
+          null,
+          ",,,,,,,,,,",
+          "c38d8f70-6e48-4f28-bd9b-632aa223b22e"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H25M",
+        "length_t": 5100,
+        "scheduled": "2025-06-30T13:23:00+02:00",
+        "scheduled_t": 1751282580,
+        "data": [
+          "Indiana Jones and the Great Circle",
+          "83kY",
+          "PC",
+          "Any% (Restricted)",
+          null,
+          "16x9-1p",
+          null,
+          "508,,,,,,,,,,",
+          "97c6d64b-271c-4c7f-b655-6a4d90d62e10"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT5H30M",
+        "length_t": 19800,
+        "scheduled": "2025-06-30T15:03:00+02:00",
+        "scheduled_t": 1751288580,
+        "data": [
+          "Final Fantasy VII",
+          "Zheal",
+          "PlayStation 2",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "1516,,,,,,,,,,",
+          "ffc85c82-1a7d-407d-9855-8d37ba729554"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT3H",
+        "length_t": 10800,
+        "scheduled": "2025-06-30T20:48:00+02:00",
+        "scheduled_t": 1751309280,
+        "data": [
+          "Paper Mario: The Thousand Year Door",
+          "Alw0 vs. jakebopdart vs. Hackedia",
+          "GameCube",
+          "Any%",
+          null,
+          "4x3-3p",
+          null,
+          "1203,1869,1883,,,,,,,,",
+          "537317d3-7a77-48e3-b7ae-3fe54b50fe3a"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT5H30M",
+        "length_t": 19800,
+        "scheduled": "2025-07-01T00:03:00+02:00",
+        "scheduled_t": 1751320980,
+        "data": [
+          "Dragon Quest XI S",
+          "sylwer",
+          "PC",
+          "Any% (Glitchless)",
+          null,
+          "16x9-1p",
+          null,
+          "872,,,,,,,,,,",
+          "a2e6bf02-dc49-4b5f-9ec7-df5eaabf820d"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H45M",
+        "length_t": 6300,
+        "scheduled": "2025-07-01T05:48:00+02:00",
+        "scheduled_t": 1751341680,
+        "data": [
+          "Harry Potter and the Chamber of Secrets",
+          "5mon",
+          "PlayStation",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "63,,,,,,,,,,",
+          "91c964dc-b817-4fb5-b88e-0934619058a7"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT40M",
+        "length_t": 2400,
+        "scheduled": "2025-07-01T07:48:00+02:00",
+        "scheduled_t": 1751348880,
+        "data": [
+          "Evergate",
+          "SunnymuffinSR",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "24,,,,,,,,,,",
+          "425e81fc-a894-4c6d-886c-fab6bf4169b4"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT55M",
+        "length_t": 3300,
+        "scheduled": "2025-07-01T08:43:00+02:00",
+        "scheduled_t": 1751352180,
+        "data": [
+          "Streets of Rage 2",
+          "misternyanta",
+          "Genesis",
+          "Skate Mania Mod",
+          null,
+          "4x3-1p",
+          null,
+          "1908,,,,,,,,,,",
+          "a24d3f76-4ba5-463b-8025-8ad6428e9808"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT12M",
+        "length_t": 720,
+        "scheduled": "2025-07-01T09:53:00+02:00",
+        "scheduled_t": 1751356380,
+        "data": [
+          "Japanese Kanji Study (Android)",
+          "Original_Baum, Alko ",
+          "Android",
+          "N5, Low Mistakes (Random Order, Medium Strictness)",
+          null,
+          null,
+          null,
+          "1629,74,,,,,,,,,",
+          "4a0898eb-b3c6-4ccd-ba7b-2ece48a06fea"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-07-01T10:20:00+02:00",
+        "scheduled_t": 1751358000,
+        "data": [
+          "Super Mario Bros. 3",
+          "Rh4kor",
+          "Nintendo Entertainment System",
+          "Any% (Warpless)",
+          null,
+          "4x3-1p",
+          null,
+          ",,,,,,,,,,",
+          "fa38d177-e33f-4ea6-9771-6e4b31bdec9b"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H40M",
+        "length_t": 9600,
+        "scheduled": "2025-07-01T11:35:00+02:00",
+        "scheduled_t": 1751362500,
+        "data": [
+          "Kingdom Hearts II",
+          "Staratar vs Mizzow",
+          "PC",
+          "Randomiser Race",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "fd28adc7-09b9-4cb3-bc76-39d7c73904ea"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-07-01T14:30:00+02:00",
+        "scheduled_t": 1751373000,
+        "data": [
+          "Super Mario Odyssey",
+          "Dansta2106, Rodillo, TiloTech, the_h_pandin",
+          "Switch",
+          "Any%",
+          null,
+          "16x9-4p",
+          null,
+          "573,1078,190,1889,,,,,,,",
+          "7ea84a6f-8909-4dce-b3b9-f6f7e332dfcb"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-07-01T15:55:00+02:00",
+        "scheduled_t": 1751378100,
+        "data": [
+          "Psychonauts",
+          "Syn_SR",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "1721,,,,,,,,,,",
+          "58319879-59a7-43a0-a9f3-05630cb93f0b"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H50M",
+        "length_t": 6600,
+        "scheduled": "2025-07-01T16:55:00+02:00",
+        "scheduled_t": 1751381700,
+        "data": [
+          "Ocarina of Time in Minecraft",
+          "sajiki",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "218,,,,,,,,,,",
+          "18f8adde-02b0-49a0-8bf8-c5c21a764851"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT09M",
+        "length_t": 540,
+        "scheduled": "2025-07-01T19:00:00+02:00",
+        "scheduled_t": 1751389200,
+        "data": [
+          "Live",
+          "sajiki",
+          "PC",
+          "Beat the Game",
+          null,
+          "16x9-1p",
+          null,
+          "218,,,,,,,,,,",
+          "e85efa97-218e-4b76-a8c2-c350bc4bb4a3"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H25M",
+        "length_t": 5100,
+        "scheduled": "2025-07-01T19:24:00+02:00",
+        "scheduled_t": 1751390640,
+        "data": [
+          "The Legend of Zelda: Ocarina of Time",
+          "Nalle",
+          "Wii",
+          "All Dungeons (No SRM)",
+          null,
+          "4x3-1p",
+          null,
+          "308,,,,,,,,,,",
+          "dbb7c4d1-ff59-4ae4-abb9-32e9b17a89db"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-07-01T21:04:00+02:00",
+        "scheduled_t": 1751396640,
+        "data": [
+          "Ratchet & Clank: Into The Nexus",
+          "Syn_SR",
+          "PlayStation 3",
+          "NG+",
+          null,
+          "4x3-1p",
+          null,
+          "1721,,,,,,,,,,",
+          "f1c51ea8-762c-436e-83b9-9b8c66aecf28"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT57M",
+        "length_t": 3420,
+        "scheduled": "2025-07-01T21:49:00+02:00",
+        "scheduled_t": 1751399340,
+        "data": [
+          "Ratchet: Deadlocked",
+          "ItzScaRee, roboo, Mucke1Man, AbyssToaster",
+          "PlayStation 3",
+          "NG+ (No LC, Co-op)",
+          null,
+          "4x3-4p",
+          null,
+          "1771,1848,207,,,,,,,,",
+          "70922a04-88e7-41df-b0e7-9f3bf9f2176f"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H15M",
+        "length_t": 4500,
+        "scheduled": "2025-07-01T23:01:00+02:00",
+        "scheduled_t": 1751403660,
+        "data": [
+          "Spyro: Year of the Dragon",
+          "Shemp vs. DylanJayFox",
+          "PlayStation 2",
+          "100 Egg",
+          null,
+          "4x3-2p",
+          null,
+          "1020,,,,,,,,,,",
+          "95bdc039-a837-47aa-81bc-bf9e847fdedd"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT3H25M",
+        "length_t": 12300,
+        "scheduled": "2025-07-02T00:31:00+02:00",
+        "scheduled_t": 1751409060,
+        "data": [
+          "Metaphor: ReFantazio (Part 2)",
+          "Neviutz",
+          "PC",
+          "True Ending (Hard)",
+          null,
+          "16x9-1p",
+          null,
+          "124,,,,,,,,,,",
+          "85663f27-4039-4cdb-9e4e-ad9d38bcf6ca"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-07-02T04:11:00+02:00",
+        "scheduled_t": 1751422260,
+        "data": [
+          "Skylanders: Spyro's Adventure (Wii/WiiU)",
+          "river25",
+          "WiiU Backwards Compatibility",
+          "Any%",
+          null,
+          null,
+          null,
+          ",,,,,,,,,,",
+          "9eb161f9-d2b9-4a57-a020-3ddb729b1c54"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-07-02T05:36:00+02:00",
+        "scheduled_t": 1751427360,
+        "data": [
+          "DreamWorks Dragons Dawn of New Riders",
+          "MoD366",
+          "PC",
+          "Any% (V-sync Off)",
+          null,
+          "16x9-1p",
+          null,
+          "25,,,,,,,,,,",
+          "ec6d2c2e-da3b-4b9d-afc8-123d18f87a7c"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-07-02T07:01:00+02:00",
+        "scheduled_t": 1751432460,
+        "data": [
+          "Total Overdose",
+          "zoton2",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "1,,,,,,,,,,",
+          "eba30c96-c68d-4c08-8b55-e9f28d3e90b2"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H30M",
+        "length_t": 5400,
+        "scheduled": "2025-07-02T08:26:00+02:00",
+        "scheduled_t": 1751437560,
+        "data": [
+          "No One Lives Forever 2: A Spy in H.A.R.M.'s Way",
+          "Vahisht",
+          "PC",
+          "Any% (Moderniser)",
+          null,
+          "16x9-1p",
+          null,
+          "1528,,,,,,,,,,",
+          "3fb119c2-b0d4-4556-bf6c-9dd7397491db"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-07-02T10:11:00+02:00",
+        "scheduled_t": 1751443860,
+        "data": [
+          "Psi-Ops: The Mindgate Conspiracy",
+          "Kainalo",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "16,,,,,,,,,,",
+          "01f062d4-5784-4a30-addf-85a749303949"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT36M",
+        "length_t": 2160,
+        "scheduled": "2025-07-02T11:01:00+02:00",
+        "scheduled_t": 1751446860,
+        "data": [
+          "Deus Ex: Invisible War",
+          "SuiMachine",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "148,,,,,,,,,,",
+          "12d378c0-97eb-49fc-96af-ab000f20f71f"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-07-02T11:52:00+02:00",
+        "scheduled_t": 1751449920,
+        "data": [
+          "UFO 50",
+          "Flick",
+          "PC",
+          "Avianos (Gold Disk)",
+          null,
+          "16x9-1p",
+          null,
+          "1877,,,,,,,,,,",
+          "a216a221-bf15-4f4d-9e4c-1dc667f7fdf7"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-07-02T12:22:00+02:00",
+        "scheduled_t": 1751451720,
+        "data": [
+          "UFO 50",
+          "Flick",
+          "PC",
+          "Fist Hell",
+          null,
+          "16x9-1p",
+          null,
+          "1877,,,,,,,,,,",
+          "8f00f27b-5aa3-4050-a9be-db18b827cc58"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-07-02T12:57:00+02:00",
+        "scheduled_t": 1751453820,
+        "data": [
+          "SaGa: Emerald Beyond",
+          "denhonator",
+          "PC",
+          "Bonnie & Formina (NG, QoL Mod)",
+          null,
+          "16x9-1p",
+          null,
+          "1301,,,,,,,,,,",
+          "2d4e2150-70be-4e63-a046-2c660cab7425"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT50M",
+        "length_t": 3000,
+        "scheduled": "2025-07-02T15:12:00+02:00",
+        "scheduled_t": 1751461920,
+        "data": [
+          "Rocky (2002) ",
+          "nilssonalex92",
+          "GameCube",
+          "Movie Mode: Champ ",
+          null,
+          "4x3-1p",
+          null,
+          ",,,,,,,,,,",
+          "19fffe78-de5a-49d4-9a08-dc1ab5ce0ee5"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H20M",
+        "length_t": 8400,
+        "scheduled": "2025-07-02T16:17:00+02:00",
+        "scheduled_t": 1751465820,
+        "data": [
+          "Pokémon Sapphire ",
+          "Alw0 vs. BluMagma",
+          "Game Boy Interface",
+          "Any% (Glitchless)",
+          null,
+          "GB-2p",
+          null,
+          "1203,1873,,,,,,,,,",
+          "14103b9f-18ae-4be6-b942-6d49a560d069"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT50M",
+        "length_t": 3000,
+        "scheduled": "2025-07-02T18:52:00+02:00",
+        "scheduled_t": 1751475120,
+        "data": [
+          "Mirror's Edge",
+          "myths, Sorix, Silver, lurven, Baratdatwarat, Eris, jackyrite",
+          "PC",
+          "Any% (Relay Race)",
+          null,
+          "16x9-7p",
+          null,
+          "1612,,1222,232,1862,,,,,,",
+          "c0664d3d-f7bb-4ed8-abfb-3acdc15d58af"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H25M",
+        "length_t": 8700,
+        "scheduled": "2025-07-02T19:57:00+02:00",
+        "scheduled_t": 1751479020,
+        "data": [
+          "Marvel's Spider-Man: Miles Morales",
+          "RebelDragon95",
+          "PlayStation 5",
+          "NG+ (Any Difficulty)",
+          null,
+          "16x9-1p",
+          null,
+          "45,,,,,,,,,,",
+          "3ebd4c6b-5b4b-46da-bacd-08f623933f50"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-07-02T22:37:00+02:00",
+        "scheduled_t": 1751488620,
+        "data": [
+          "Need For Speed: Carbon",
+          "Cousin",
+          "PC",
+          "Career Any% (NG)",
+          null,
+          "16x9-1p",
+          null,
+          "609,,,,,,,,,,",
+          "60694c26-659d-4853-b94c-8aca51238aab"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT40M",
+        "length_t": 2400,
+        "scheduled": "2025-07-03T00:52:00+02:00",
+        "scheduled_t": 1751496720,
+        "data": [
+          "Looney Tunes Racing",
+          "hypnoshark",
+          "PlayStation",
+          "All Acme Challenges",
+          null,
+          "4x3-1p",
+          null,
+          "1095,,,,,,,,,,",
+          "8391c84b-5819-4c92-8f13-c49073464918"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-07-03T01:47:00+02:00",
+        "scheduled_t": 1751500020,
+        "data": [
+          "Haiku, the Robot",
+          "Xoneris",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "9dc77430-9eae-43ac-8783-cf4273ea423b"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT3H15M",
+        "length_t": 11700,
+        "scheduled": "2025-07-03T02:37:00+02:00",
+        "scheduled_t": 1751503020,
+        "data": [
+          "Daxter",
+          "NokiDoki",
+          "PlayStation Portable",
+          "101%",
+          null,
+          "4x3-1p",
+          null,
+          "595,,,,,,,,,,",
+          "48204049-97ea-497b-a10c-234ad8a90b56"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H15M",
+        "length_t": 4500,
+        "scheduled": "2025-07-03T06:07:00+02:00",
+        "scheduled_t": 1751515620,
+        "data": [
+          "Ratchet & Clank: Going Commando",
+          "snee ",
+          "PlayStation 3",
+          "All Platinum Bolts",
+          null,
+          "4x3-1p",
+          null,
+          "87,,,,,,,,,,",
+          "953c6add-8e3b-4383-898e-8ddca3f7d790"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-07-03T07:37:00+02:00",
+        "scheduled_t": 1751521020,
+        "data": [
+          "No Time To Explain Remastered",
+          "WarDrums",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "769,,,,,,,,,,",
+          "5ad94d94-a568-47e3-9e28-bda26d3d4bc4"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT18M",
+        "length_t": 1080,
+        "scheduled": "2025-07-03T08:17:00+02:00",
+        "scheduled_t": 1751523420,
+        "data": [
+          "Secret Agent Clank ",
+          "ItzScaRee",
+          "PlayStation Portable",
+          "Burger King",
+          null,
+          "4x3-1p",
+          null,
+          "1771,,,,,,,,,,",
+          "dc337125-c349-41f6-b787-5b64c5aed934"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-07-03T08:50:00+02:00",
+        "scheduled_t": 1751525400,
+        "data": [
+          "DKC X Mario",
+          "Rh4kor",
+          "Super Nintendo",
+          "Any%",
+          null,
+          "4x3-2p",
+          null,
+          ",,,,,,,,,,",
+          "66273a35-c9d9-4653-9e84-6d447b9f2658"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-07-03T09:40:00+02:00",
+        "scheduled_t": 1751528400,
+        "data": [
+          "Hitman: World of Assassination",
+          "havrd",
+          "PC",
+          "Roulette Run Invalid",
+          null,
+          "16x9-1p",
+          null,
+          "268,,,,,,,,,,",
+          "c5760afb-aa8b-4b1c-97ac-75bd87488a7f"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT18M",
+        "length_t": 1080,
+        "scheduled": "2025-07-03T11:05:00+02:00",
+        "scheduled_t": 1751533500,
+        "data": [
+          "VVVVVV",
+          "laxxus",
+          "PC",
+          "No OoB",
+          null,
+          "16x9-1p",
+          null,
+          "1132,,,,,,,,,,",
+          "5c122bf2-516a-41b8-8999-17f43b7ff344"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-07-03T11:38:00+02:00",
+        "scheduled_t": 1751535480,
+        "data": [
+          "Nightmare Busters",
+          "lucha_Gym, apollosmug",
+          "Super Nintendo",
+          "Any% (Co-op)",
+          null,
+          "4x3-1p",
+          null,
+          ",,,,,,,,,,",
+          "a2437929-0466-4874-99d7-b5b48a30922e"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT42M",
+        "length_t": 2520,
+        "scheduled": "2025-07-03T12:18:00+02:00",
+        "scheduled_t": 1751537880,
+        "data": [
+          "Sonic Project '06",
+          "Shemp",
+          "PC",
+          "Sonic (Gemless)",
+          null,
+          "16x9-1p",
+          null,
+          "1020,,,,,,,,,,",
+          "217348b1-38f9-4f19-bea9-759a8f8de444"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-07-03T13:15:00+02:00",
+        "scheduled_t": 1751541300,
+        "data": [
+          "Spider-Man (2000)",
+          "Spyran",
+          "Dreamcast",
+          "Any% (Easy)",
+          null,
+          "4x3-1p",
+          null,
+          "1861,,,,,,,,,,",
+          "8b390555-1866-4f88-a3d7-251f097c0c6e"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT34M",
+        "length_t": 2040,
+        "scheduled": "2025-07-03T14:00:00+02:00",
+        "scheduled_t": 1751544000,
+        "data": [
+          "Spider-Man 2: Enter Electro",
+          "Spyran",
+          "PlayStation",
+          "Any% (Easy Mode)",
+          null,
+          "4x3-1p",
+          null,
+          "1861,,,,,,,,,,",
+          "b8e1f10a-09e0-4109-866c-aaea62f06530"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT26M",
+        "length_t": 1560,
+        "scheduled": "2025-07-03T14:49:00+02:00",
+        "scheduled_t": 1751546940,
+        "data": [
+          "Spyro the Dragon",
+          "Anne_Chovy",
+          "PlayStation",
+          "Vortex",
+          null,
+          "4x3-1p",
+          null,
+          ",,,,,,,,,,",
+          "55fa377b-45e6-4778-8d32-a9492075805e"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-07-03T15:30:00+02:00",
+        "scheduled_t": 1751549400,
+        "data": [
+          "Spyro the Dragon",
+          "Composer vs Dayoman vs Lumilaura",
+          "PlayStation",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          ",,,,,,,,,,",
+          "9a104290-7da1-4955-bcd9-5429e25bfb0a"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H35M",
+        "length_t": 5700,
+        "scheduled": "2025-07-03T16:30:00+02:00",
+        "scheduled_t": 1751553000,
+        "data": [
+          "Looney Tunes: Space Race",
+          "FreezeChamp",
+          "PlayStation 2",
+          "All Tournaments",
+          null,
+          "4x3-1p",
+          null,
+          "1609,,,,,,,,,,",
+          "efa688b4-fa14-4f82-a1d1-6e8c8754b841"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-07-03T18:20:00+02:00",
+        "scheduled_t": 1751559600,
+        "data": [
+          "Flash Game Gauntlet 2",
+          "ThaRixer & Friends",
+          "PC",
+          "Any%?",
+          null,
+          "16x9-3p",
+          null,
+          "75,,,,,,,,,,",
+          "6ab33bf6-abd8-48e3-9e2f-84f22e14d19b"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT5H15M",
+        "length_t": 18900,
+        "scheduled": "2025-07-03T19:55:00+02:00",
+        "scheduled_t": 1751565300,
+        "data": [
+          "Marvel's Guardians of the Galaxy",
+          "Kainalo",
+          "PC",
+          "Any% (NG+)",
+          null,
+          "16x9-1p",
+          null,
+          "16,,,,,,,,,,",
+          "55d868a8-a1f9-45c4-9ee1-c0b8226f9f27"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT50M",
+        "length_t": 3000,
+        "scheduled": "2025-07-04T01:25:00+02:00",
+        "scheduled_t": 1751585100,
+        "data": [
+          "Tomb Raider Chronicles",
+          "Cadarev",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "409,,,,,,,,,,",
+          "985e9ca5-22df-4b11-b3e5-b6af17c99eba"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-07-04T02:30:00+02:00",
+        "scheduled_t": 1751589000,
+        "data": [
+          "Trials Rising",
+          "Murtag",
+          "PC",
+          "Ninja Showcase",
+          null,
+          "16x9-1p",
+          null,
+          "200,,,,,,,,,,",
+          "75d99084-d7f7-4d59-8696-384804bd535e"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT28M",
+        "length_t": 1680,
+        "scheduled": "2025-07-04T03:45:00+02:00",
+        "scheduled_t": 1751593500,
+        "data": [
+          "Dishonored",
+          "lurven ",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "232,,,,,,,,,,",
+          "388c1f52-73ae-4e0e-a75a-77970cf85534"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H35M",
+        "length_t": 9300,
+        "scheduled": "2025-07-04T04:28:00+02:00",
+        "scheduled_t": 1751596080,
+        "data": [
+          "Pokémon SoulSilver",
+          "Alw0",
+          "Nintendo DS",
+          "Any% (Manipless)",
+          null,
+          "DS-1p",
+          null,
+          "1203,,,,,,,,,,",
+          "b25332bf-65e0-48a0-b9fc-b2819b5e4e23"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT3H10M",
+        "length_t": 11400,
+        "scheduled": "2025-07-04T07:18:00+02:00",
+        "scheduled_t": 1751606280,
+        "data": [
+          "Super Mario Galaxy 2",
+          "galaxtic",
+          "Wii",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "568,,,,,,,,,,",
+          "b5eb39e7-43b9-43cf-8988-ea62e30c7714"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-07-04T10:43:00+02:00",
+        "scheduled_t": 1751618580,
+        "data": [
+          "Castlevania",
+          "JkL0ser",
+          "Nintendo Entertainment System",
+          "Beat the Game (Easy)",
+          null,
+          "4x3-1p",
+          null,
+          "182,,,,,,,,,,",
+          "e6bed054-c661-4cc6-bba1-fb46bcd9abe2"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT10M",
+        "length_t": 600,
+        "scheduled": "2025-07-04T11:13:00+02:00",
+        "scheduled_t": 1751620380,
+        "data": [
+          "The Last Ninja",
+          "JkL0ser",
+          "Nintendo Entertainment System",
+          "Beat the Game",
+          null,
+          "4x3-1p",
+          null,
+          "182,,,,,,,,,,",
+          "35805c18-54a8-4304-92b9-cbf7436219d8"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-07-04T11:38:00+02:00",
+        "scheduled_t": 1751621880,
+        "data": [
+          "Adventure of Bayou Billy",
+          "JkL0ser",
+          "Nintendo Entertainment System",
+          "Beat the Game",
+          null,
+          "4x3-1p",
+          null,
+          "182,,,,,,,,,,",
+          "afea9e2b-61d4-4b99-859e-2bb9ecee0835"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT37M",
+        "length_t": 2220,
+        "scheduled": "2025-07-04T12:18:00+02:00",
+        "scheduled_t": 1751624280,
+        "data": [
+          "Plok",
+          "laxxus",
+          "Super Nintendo",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "1132,,,,,,,,,,",
+          "aa8bb1f1-7b19-499e-9a5d-9a6ba70a432d"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-07-04T13:10:00+02:00",
+        "scheduled_t": 1751627400,
+        "data": [
+          "Little Samson",
+          "laxxus ",
+          "Nintendo Entertainment System",
+          "All Stages (Easy)",
+          null,
+          "4x3-1p",
+          null,
+          "1132,,,,,,,,,,",
+          "9cbe8b80-4ae3-4c89-9148-03440f0a47d6"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT18M",
+        "length_t": 1080,
+        "scheduled": "2025-07-04T13:45:00+02:00",
+        "scheduled_t": 1751629500,
+        "data": [
+          "Mighty Final Fight",
+          "JkL0ser",
+          "Nintendo Entertainment System",
+          "Any% (Haggar)",
+          null,
+          "4x3-1p",
+          null,
+          "182,,,,,,,,,,",
+          "c5cf9824-9765-453d-8e5d-a1aa3b1d40b5"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-07-04T14:18:00+02:00",
+        "scheduled_t": 1751631480,
+        "data": [
+          "Jackal",
+          "sYn, TypicalFantasyX",
+          "Nintendo Entertainment System",
+          "Any% (2 Player)",
+          null,
+          "4x3-2p",
+          null,
+          "1721,1687,,,,,,,,,",
+          "1291b8d1-22aa-46b8-baf2-5db77b78a636"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT23M",
+        "length_t": 1380,
+        "scheduled": "2025-07-04T14:48:00+02:00",
+        "scheduled_t": 1751633280,
+        "data": [
+          "Inspector Gadget",
+          "ApolloSmug",
+          "Super Nintendo",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "363,,,,,,,,,,",
+          "abc0dfe1-c168-45c0-84de-3ddce96453ba"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-07-04T15:26:00+02:00",
+        "scheduled_t": 1751635560,
+        "data": [
+          "Skyblazer",
+          "laxxus",
+          "Super Nintendo",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "1132,,,,,,,,,,",
+          "8f13df6f-9f98-48e1-a90e-b8f213a68c57"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT12M",
+        "length_t": 720,
+        "scheduled": "2025-07-04T16:11:00+02:00",
+        "scheduled_t": 1751638260,
+        "data": [
+          "Widget",
+          "hirexen",
+          "Nintendo Entertainment System",
+          "Any%",
+          null,
+          "4x3-1p",
+          null,
+          "318,,,,,,,,,,",
+          "631c03fc-b0ba-4b5f-a9d1-5665c66e49a9"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-07-04T16:38:00+02:00",
+        "scheduled_t": 1751639880,
+        "data": [
+          "Ghoul School",
+          "JkL0ser, EndySWE",
+          "Nintendo Entertainment System",
+          "Any% (Best of 3)",
+          null,
+          "4x3-2p",
+          null,
+          "182,212,,,,,,,,,",
+          "3ae99b6b-12db-4446-a25b-f829d35f16b3"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-07-04T17:13:00+02:00",
+        "scheduled_t": 1751641980,
+        "data": [
+          "Gremlins 2: The New Batch",
+          "EndySWE vs. hirexen",
+          "Nintendo Entertainment System",
+          "Any%",
+          null,
+          "4x3-2p",
+          null,
+          "212,318,,,,,,,,,",
+          "98483048-9b5f-4256-b21b-0013aed80756"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT10M",
+        "length_t": 600,
+        "scheduled": "2025-07-04T17:43:00+02:00",
+        "scheduled_t": 1751643780,
+        "data": [
+          "River City Ransom",
+          "Joka",
+          "Nintendo Entertainment System",
+          "Novice",
+          null,
+          "4x3-1p",
+          null,
+          "14,,,,,,,,,,",
+          "18ed97cf-729b-4400-9c41-81be68e012ac"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT11M",
+        "length_t": 660,
+        "scheduled": "2025-07-04T18:08:00+02:00",
+        "scheduled_t": 1751645280,
+        "data": [
+          "Spacegulls",
+          "JkL0ser ",
+          "Nintendo Entertainment System",
+          "All Cosmo Chicks",
+          null,
+          "4x3-1p",
+          null,
+          "182,,,,,,,,,,",
+          "558184e4-00ff-4104-b3f8-118a63c7cba5"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT10M",
+        "length_t": 600,
+        "scheduled": "2025-07-04T18:34:00+02:00",
+        "scheduled_t": 1751646840,
+        "data": [
+          "Spartan X 2",
+          "hirexen",
+          "Nintendo Entertainment System",
+          "Normal",
+          null,
+          "4x3-1p",
+          null,
+          "318,,,,,,,,,,",
+          "e3e240b7-9944-49a6-a768-a4dfaa96ac9f"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-07-04T18:59:00+02:00",
+        "scheduled_t": 1751648340,
+        "data": [
+          "NES Shuffler",
+          "Gikkman, laxxus, CartinaCow, Joka, hirexen, dxtr, EndySWE",
+          "Nintendo Entertainment System",
+          "Donation Shuffler",
+          null,
+          "4x3-7p",
+          null,
+          "261,1132,49,14,318,161,212,,,,",
+          "8820d3da-24cc-495e-87bc-81086b71dffa"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-07-04T20:14:00+02:00",
+        "scheduled_t": 1751652840,
+        "data": [
+          "Vib-Ribbon",
+          "Alaapo",
+          "PlayStation",
+          "All Songs",
+          null,
+          "4x3-1p",
+          null,
+          "211,,,,,,,,,,",
+          "9c1c2e9f-784b-4e01-8c0f-37ac596e37ef"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H35M",
+        "length_t": 5700,
+        "scheduled": "2025-07-04T20:49:00+02:00",
+        "scheduled_t": 1751654940,
+        "data": [
+          "Monster Racer",
+          "IceN, ThaRixer",
+          "PlayStation 2",
+          "Any% (20-Player Relay)",
+          null,
+          "4x3-2p",
+          null,
+          "1845,75,,,,,,,,,",
+          "5937c344-565f-4857-baa1-b5e90fa1c305"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-07-04T22:39:00+02:00",
+        "scheduled_t": 1751661540,
+        "data": [
+          "Call of Duty: Black Ops II Zombies",
+          "Huth",
+          "PC",
+          "Mob of the Dead (Easter Egg)",
+          null,
+          "16x9-1p",
+          null,
+          "593,,,,,,,,,,",
+          "6a0c0f14-644f-40df-9ddd-a314f63e0f83"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H42M",
+        "length_t": 6120,
+        "scheduled": "2025-07-04T23:19:00+02:00",
+        "scheduled_t": 1751663940,
+        "data": [
+          "Gran Turismo",
+          "Cousin",
+          "PlayStation",
+          "Any% (No Licence Prizes)",
+          null,
+          "4x3-1p",
+          null,
+          "609,,,,,,,,,,",
+          "8a940d7b-13b4-4a51-9141-8486cd6ac54a"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT1H55M",
+        "length_t": 6900,
+        "scheduled": "2025-07-05T01:16:00+02:00",
+        "scheduled_t": 1751670960,
+        "data": [
+          "Crysis 2",
+          "SuiMachine",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "148,,,,,,,,,,",
+          "d86f6062-8d5c-4253-9af9-266b3fa017a3"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT3H40M",
+        "length_t": 13200,
+        "scheduled": "2025-07-05T03:26:00+02:00",
+        "scheduled_t": 1751678760,
+        "data": [
+          "Digimon World 4",
+          "Nalle, FantaTanked",
+          "GameCube",
+          "Any% (Co-op)",
+          null,
+          "4x3-2p",
+          null,
+          "308,1109,,,,,,,,,",
+          "d012d1ab-7484-40a9-976c-e8ff3de5b62a"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-07-05T07:21:00+02:00",
+        "scheduled_t": 1751692860,
+        "data": [
+          "Theatrhythm Final Bar Line",
+          "Givralyriame",
+          "PlayStation 5",
+          "Showcase",
+          null,
+          "16x9-1p",
+          null,
+          "1898,,,,,,,,,,",
+          "2de2e5f9-4238-4cb1-8465-b40e23af3cce"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-07-05T08:06:00+02:00",
+        "scheduled_t": 1751695560,
+        "data": [
+          "Lil Gator Game",
+          "GreenSnowDog ",
+          "PC",
+          "All Friends",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "564fd175-359f-4dac-ac54-d13d1d854aed"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT16M",
+        "length_t": 960,
+        "scheduled": "2025-07-05T08:51:00+02:00",
+        "scheduled_t": 1751698260,
+        "data": [
+          "Hotdog Samurai",
+          "Aeshmah",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "6a6eab95-a682-4eff-9302-0b6431e4cb00"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT33M",
+        "length_t": 1980,
+        "scheduled": "2025-07-05T09:22:00+02:00",
+        "scheduled_t": 1751700120,
+        "data": [
+          "Unreal",
+          "myths",
+          "PC",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "1612,,,,,,,,,,",
+          "31216e71-cb54-4807-b820-b8216972fa7f"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT34M",
+        "length_t": 2040,
+        "scheduled": "2025-07-05T10:10:00+02:00",
+        "scheduled_t": 1751703000,
+        "data": [
+          "Vengeance Hunters",
+          "Greenalink",
+          "PC",
+          "Any% (Loony)",
+          null,
+          "16x9-1p",
+          null,
+          "820,,,,,,,,,,",
+          "a54b3c77-74f4-47ee-a9a9-b304a59aca09"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H20M",
+        "length_t": 8400,
+        "scheduled": "2025-07-05T10:59:00+02:00",
+        "scheduled_t": 1751705940,
+        "data": [
+          "Undertale",
+          "eden8 vs. galaxtic",
+          "PC",
+          "True Pacifist Ending (Glitchless)",
+          null,
+          "16x9-2p",
+          null,
+          "1646,568,,,,,,,,,",
+          "10f74b2e-989d-4940-b027-bce77b4e6f94"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-07-05T13:34:00+02:00",
+        "scheduled_t": 1751715240,
+        "data": [
+          "QuizBOSH Extravaganza",
+          "Smaklosa",
+          "PC",
+          "Video Game%",
+          null,
+          "16x9-1p",
+          null,
+          ",,,,,,,,,,",
+          "e009359d-c0ad-453a-9cbb-07ec1be9ab36"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-07-05T15:49:00+02:00",
+        "scheduled_t": 1751723340,
+        "data": [
+          "Skate 2",
+          "RebelDragon95",
+          "Xbox Series S",
+          "Any%",
+          null,
+          "16x9-1p",
+          null,
+          "45,,,,,,,,,,",
+          "a16c10bf-52d6-4be3-9aaf-e00847c5e8e0"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT48M",
+        "length_t": 2880,
+        "scheduled": "2025-07-05T16:49:00+02:00",
+        "scheduled_t": 1751726940,
+        "data": [
+          "Super Metroid",
+          "gebbu vs. timmon_ ",
+          "Super Nintendo",
+          "Any% (KPDR Route)",
+          null,
+          "4x3-2p",
+          null,
+          "1347,1692,,,,,,,,,",
+          "9d909a33-ad96-4a68-89a8-60679e0e5f23"
+        ],
+        "options": null
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-07-05T17:52:00+02:00",
+        "scheduled_t": 1751730720,
+        "data": [
+          "Classic Mario Series",
+          "ApolloSmug",
+          "N/A",
+          "Stage Relay",
+          null,
+          null,
+          null,
+          "363,,,,,,,,,,",
+          "ca95ced0-7983-42bc-ab9c-ec67bb85d873"
+        ],
+        "options": null
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://horaro.org/-/api/v1/schedules/4411gf8bgo950j7a2c"
+      },
+      {
+        "rel": "event",
+        "uri": "https://horaro.org/-/api/v1/events/7a50r46ezxb6yxb41b"
+      },
+      {
+        "rel": "ticker",
+        "uri": "https://horaro.org/-/api/v1/schedules/4411gf8bgo950j7a2c/ticker"
+      }
+    ]
+  }
+}
