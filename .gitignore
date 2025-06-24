@@ -22,3 +22,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.vs/ESACalendar
+/.vscode
+/obj/Debug
+/esacalendar.esproj
+/esacalendar.esproj.user
+/ESACalendar.sln
