@@ -26,13 +26,13 @@ function App() {
     }
 
     const loadedData2 = function (d) {
-        if (!loaded2 && !!d &&  !!d.items) {
+        if (!loaded2 && !!d && !!d.items) {
             setLoaded2(true)
             setAllItems2(d.items)
         }
     }
 
-    const [filters, setFilters] = useState([])
+    const [fff, setFilters] = useState([])
 
     if (!filters.length) {
         fetch('/filter.json').then(response => {
