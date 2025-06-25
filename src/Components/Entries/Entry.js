@@ -1,4 +1,3 @@
-// const formatter = new Intl.DateTimeFormat(navigator.language).format(date)
 import { currentDate } from '../EntryCollection.js'
 
 function intToDuration(seconds) {

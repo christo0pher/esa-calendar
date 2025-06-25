@@ -1,9 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 import EntryCollection from './Components/EntryCollection.js'
-
-import filters from './filter.json'
 
 var isChecked = false
 var inputFilter = ''
@@ -71,7 +68,7 @@ function App() {
         }
     }
 
-    const [fff, setFilters] = useState([])
+    const [filters, setFilters] = useState([])
 
     if (!filters.length) {
         fetch('/filter.json').then(response => {

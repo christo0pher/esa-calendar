@@ -2,13 +2,6 @@ import Entry from './Entries/Entry.js'
 
 const currentDate = new Date();
 
-const objectMap = (obj, fn) =>
-    Object.fromEntries(
-        Object.entries(obj).map(
-            ([k, v], i) => [k, fn(v, k, i)]
-        )
-    )
-
 const weekDays = [
     'Sunday',
     'Monday',
@@ -23,7 +16,7 @@ function weekDay(date) {
     return weekDays[date.getDay()]
 }
 
-export default function EntryCollection({ items, streamUrl }) {
+export default function EntryCollection({ items }) {
     return <div className="items-list">
         {Object.keys(items).map((key, index) => {
             let date = (new Date(items[key][0].scheduled))
