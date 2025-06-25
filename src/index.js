@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,14 +19,14 @@ window.loadedData2 = function (t) {
     window.dispatchEvent(new CustomEvent("loadedData2", { detail: t }))
 }
 
-const now = new Date();
+const now = Math.floor(Date.now() / 1000 / 60);
 
 function addScript(url) {
     const script = document.createElement("script");
 
     let connector = url.includes('?') ? '&' : '?'
 
-    script.src = url + connector + 't=' + now.getUTCSeconds();
+    script.src = url + connector + 't=' + now;
     script.async = true;
 
     document.body.appendChild(script);
@@ -33,6 +34,8 @@ function addScript(url) {
 
 addScript("https://horaro.org/-/api/v1/schedules/4411gf8bgo950j7a2c?callback=loadedData")
 addScript("https://horaro.org/-/api/v1/schedules/1d11h41bwq87287a21?callback=loadedData2")
+
+serviceWorkerRegistration.register();
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
