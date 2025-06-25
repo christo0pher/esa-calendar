@@ -24,7 +24,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: calc(8px + 2vmin);
+    font-size: min(28px, calc(8px + 2vmin));
     color: white;
 }
 
@@ -96,13 +96,14 @@ a {
 .stream-header {
     background: #282c34;
     position: sticky;
-    top: 0;
+    top: -15px;
     width: 100%;
-    height: calc(15px + 2vmin);
+    height: 45px;
     display: flex;
     justify-content: center;
     justify-items: center;
     z-index: 2000;
+    align-items: end;
 }
 
 .items-list {
@@ -134,7 +135,7 @@ a {
 
 .items-list .sub-list-header {
     position: sticky;
-    top: calc(15px + 2vmin);
+    top: 24px;
     background: #282c34;
     z-index: 1000;
     padding-left: calc(min(20px, 2vmin));
@@ -144,6 +145,7 @@ a {
     font-size: min(19px, calc(6px + 2vmin));
     color: #648d8d;
     border-bottom: 1px solid #3d434e;
+    margin-bottom: -1px;
 }
 
 .items-list-test {
